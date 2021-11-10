@@ -35,3 +35,6 @@
 - Español: 20 wpm
 - Python: 10 wpm
 
+## Estado actual
+- Español: 12 wpm
+
