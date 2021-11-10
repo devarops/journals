@@ -12,6 +12,9 @@
 ## Molestias
 - Es muy incómodo escribir los guiones
 
+## Ideas
+- Actualmente no uso las dos teclas de enmedio del primer renglon. Podría usar esas teclas para el guión
+
 ## Dudas por investigar
 - ¿Cómo refactorizar?
 - ¿Para qué sirven los corchetes: "[]"?
