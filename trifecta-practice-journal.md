@@ -4,18 +4,23 @@
 - Python: 10 wpm
 
 ## Estado actual
+- Español: 10 wpm
 
-## Logros
+## Logros y descubrimientos
 - [x] Vim tutor
 
 ## Molestias
 - Es muy incómodo escribir los guiones
 
-## Estudio
+## Dudas por investigar
+- ¿Cómo refactorizar?
+- ¿Para qué sirven los corchetes: "[]"?
+- ¿Qué significan los corchetes en el menú de autocompletar?
 
-## Practicando
+## Practicando actualmente
+- TypeRacer (español)
 
-## Pendientes
+## Tareas y ejercicios pendientes 
 - [ ] :help quickref
 - [ ] :help user-manual
 - [ ] SpaceVim documentation
