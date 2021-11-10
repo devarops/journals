@@ -1,3 +1,11 @@
+---
+title: "Bitácora de prácticas de la trifecta: Vim, tmux y QMK Firmware"
+author: Evaristo Rojas • GECI
+date: 2021-11-09
+extensions: []
+styles: {}
+---
+
 # 2021-11-09
 ## Metas
 - Español: 20 wpm
@@ -17,8 +25,8 @@
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
-- ¿Para qué sirven los corchetes: "[]"?
-- ¿Qué significan los corchetes en el menú de autocompletar?
+- ¿Para qué sirven los corchetes: "[]" en Vim?
+- ¿Qué significan los corchetes en el menú de autocompletar de SpaceVim?
 
 ## Practicando actualmente
 - TypeRacer (español)
@@ -37,4 +45,7 @@
 
 ## Estado actual
 - Español: 12 wpm
+
+## Logros y descubrimientos
+- `lookatme` is an interactive, terminal-based markdown presentation tool
 
