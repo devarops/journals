@@ -28,3 +28,10 @@
 - [ ] :help user-manual
 - [ ] SpaceVim documentation
 
+---
+
+# 2021-11-10
+## Metas
+- Español: 20 wpm
+- Python: 10 wpm
+
