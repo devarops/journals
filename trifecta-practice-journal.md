@@ -31,7 +31,7 @@ styles: {}
 ## Practicando actualmente
 - TypeRacer (español)
 
-## Tareas y ejercicios pendientes 
+## Tareas y ejercicios pendientes
 - [ ] :help quickref
 - [ ] :help user-manual
 - [ ] SpaceVim documentation
@@ -51,4 +51,13 @@ styles: {}
 
 ## Dudas por investigar
 - ¿Cómo cambiar la línea de estado de tmux?
+
+---
+
+# 2021-11-11
+## Molestias
+- Mi teclado Planck compatible con QMK Firmware dejó de funcionar
+- SpaceVim no reconocía mis cambios en la configuración. Tuve que desinstalar SpaceVim y para usar Neovim directamente
+
+---
 
