@@ -8,11 +8,18 @@ styles: {}
 
 # Vim
 
+Editor de texto con TUI
+
+- Contenedores de Docker
+- Servidores SSH
+
 # tmux
+
+Gestor de ventanas para la terminal de comados del sistema operativo
 
 # QMK Firmware
 
-Firmware de código abierto que permite configurar los teclados compatibles.
+Firmware de código abierto que permite configurar los teclados compatibles
 
 - Vim: _[Esc]_
 - tmux: _[Ctrl]+B_
