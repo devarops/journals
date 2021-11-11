@@ -18,7 +18,7 @@ styles: {}
 - [x] Vim tutor
 
 ## Molestias
-- Es muy incómodo escribir los guiones
+- Es muy incómodo escribir los guiones y otros símbolos
 
 ## Ideas
 - Actualmente no uso las dos teclas de enmedio del primer renglon. Podría usar esas teclas para el guión
@@ -48,4 +48,7 @@ styles: {}
 
 ## Logros y descubrimientos
 - `lookatme` is an interactive, terminal-based markdown presentation tool
+
+## Dudas por investigar
+- ¿Cómo cambiar la línea de estado de tmux?
 
