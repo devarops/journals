@@ -61,7 +61,8 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Es muy incómodo escribir los guiones y otros símbolos
 
 ## Ideas
-- Actualmente no uso las dos teclas de enmedio del primer renglon. Podría usar esas teclas para el guión
+- Actualmente no uso las dos teclas de enmedio del primer renglon. Podría usar esas teclas para el
+  guión
 
 ---
 
@@ -100,7 +101,15 @@ Firmware de código abierto que permite configurar los teclados compatibles
 # 2021-11-11
 ## Molestias
 - Mi teclado Planck compatible con QMK Firmware dejó de funcionar
-- SpaceVim no reconocía mis cambios en la configuración. Tuve que desinstalar SpaceVim y para usar Neovim directamente
+- SpaceVim no reconocía mis cambios en la configuración. Tuve que desinstalar SpaceVim y para usar
+  Neovim directamente
 
----
+## Aprendizajes, descubrimientos y logros
+- `lightline.vim` is a light and configurable statusline/tabline plugin for Vim
+
+## Dudas por investigar
+- ~~¿Qué significan los corchetes en el menú de autocompletar de SpaceVim?~~
+- ¿Cómo activar [`lightline-bufferline`](https://github.com/mengelbrecht/lightline-bufferline)?
+
+----
 
