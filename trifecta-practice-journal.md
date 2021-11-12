@@ -55,7 +55,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Español: 10 wpm
 
 ## Aprendizajes, descubrimientos y logros
-- [x] Vim tutor
+- ✅ Vim tutor 🎓
 
 ## Molestias
 - Es muy incómodo escribir los guiones y otros símbolos
