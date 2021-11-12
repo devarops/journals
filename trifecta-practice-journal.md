@@ -111,5 +111,8 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - ~~¿Qué significan los corchetes en el menú de autocompletar de SpaceVim?~~
 - ¿Cómo activar [`lightline-bufferline`](https://github.com/mengelbrecht/lightline-bufferline)?
 
+## Tareas y ejercicios pendientes
+- ~~[ ] SpaceVim documentation~~
+
 ----
 
