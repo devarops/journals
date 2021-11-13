@@ -74,8 +74,6 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 # Semana 1
 
-- 2021-11-09 - 2021-11-12
-
 ## Ideas
 - Tengo ideas para mejorar la configuración de mi teclado
 
@@ -108,8 +106,6 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ---
 
 # Semana 2
-
-- 2021-11-15 - 2021-11-19
 
 ## Ideas
 
