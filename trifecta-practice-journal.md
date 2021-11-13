@@ -46,88 +46,9 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ---
 
-# 2021-11-09
-## Metas
-- Español: 20 wpm
-- Python: 10 wpm
+# Semana 1
 
-## Estado actual
-- Español: 10 wpm
-
-## Aprendizajes, descubrimientos y logros
-- ✅ Vim tutor 🎓
-
-## Molestias
-- Es muy incómodo escribir los guiones y otros símbolos
-
-## Ideas
-- Actualmente no uso las dos teclas de enmedio del primer renglon. Podría usar esas teclas para el
-  guión
-
----
-
-# 2021-11-09
-## Dudas por investigar
-- ¿Cómo refactorizar?
-- ¿Para qué sirven los corchetes: "[]" en Vim?
-- ¿Qué significan los corchetes en el menú de autocompletar de SpaceVim?
-
-## Practicando o estudiando
-- TypeRacer (español)
-
-## Tareas y ejercicios pendientes
-- [ ] :help quickref
-- [ ] :help user-manual
-- [ ] SpaceVim documentation
-
----
-
-# 2021-11-10
-## Metas
-- Español: 20 wpm
-- Python: 10 wpm
-
-## Estado actual
-- Español: 12 wpm
-
-## Aprendizajes, descubrimientos y logros
-- `lookatme` is an interactive, terminal-based markdown presentation tool
-
-## Dudas por investigar
-- ¿Cómo cambiar la línea de estado de tmux?
-
----
-
-# 2021-11-11
-## Molestias
-- Mi teclado Planck compatible con QMK Firmware dejó de funcionar
-- SpaceVim no reconocía mis cambios en la configuración. Tuve que desinstalar SpaceVim y para usar
-  Neovim directamente
-
-## Aprendizajes, descubrimientos y logros
-- `lightline.vim` is a light and configurable statusline/tabline plugin for Vim
-
-## Dudas por investigar
-- ~~¿Qué significan los corchetes en el menú de autocompletar de SpaceVim?~~
-- ¿Cómo activar [`lightline-bufferline`](https://github.com/mengelbrecht/lightline-bufferline)?
-
-## Tareas y ejercicios pendientes
-- ~~[ ] SpaceVim documentation~~
-
----
-
-# 2021-11-12
-## Aprendizajes, descubrimientos y logros
-- Logré activar [`lightline-bufferline`](https://github.com/mengelbrecht/lightline-bufferline)
-
-## Molestias
-- La configuración de los pluins es muy complicada. Parece haber diferencias entre la configuración
-  para Vim y Neovim
-- Navegar entre buffers es complicado sin SpaceVim
-
----
-
-# Resumen semana 1
+- 2021-11-09 - 2021-11-12
 
 ## Metas
 - Español: 20 wpm
@@ -137,21 +58,23 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Español: 12 wpm
 
 ## Aprendizajes, descubrimientos y logros
-- Vim tutor 🎓
-- `lightline-bufferline`
+- `vimtutor`
 - `lightline.vim`
+- `lightline-bufferline`
 - `lookatme`
 
 ## Molestias
-- Desinstalé SpaceVim
+- Desinstalé SpaceVim porque no pude configurarlo
 - Incómodo escribir símbolos
 - Mi teclado QMK Firmware se descompuso
-- Navegar entre buffers es dificil
-- Pluins son complicados
+- Navegar entre buffers es difícil
+- Configurar pluins es difícil
 
 ---
 
-# Resumen semana 1
+# Semana 1
+
+- 2021-11-09 - 2021-11-12
 
 ## Ideas
 - Tengo ideas para mejorar la configuración de mi teclado
@@ -167,4 +90,32 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Tareas y ejercicios pendientes
 - [ ] :help quickref
 - [ ] :help user-manual
+
+---
+
+# Semana 2
+
+- 2021-11-15 - 2021-11-19
+
+## Metas
+
+## Estado actual
+
+## Aprendizajes, descubrimientos y logros
+
+## Molestias
+
+---
+
+# Semana 2
+
+- 2021-11-15 - 2021-11-19
+
+## Ideas
+
+## Dudas por investigar
+
+## Prácticando o estudiando
+
+## Tareas y ejercicios pendientes
 
