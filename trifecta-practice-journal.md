@@ -88,8 +88,8 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - ~~TypeRacer (español)~~
 
 ## Tareas y ejercicios pendientes
-- [ ] :help quickref
-- [ ] :help user-manual
+- :help quickref
+- :help user-manual
 
 ---
 
@@ -114,8 +114,13 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Ideas
 
 ## Dudas por investigar
+- ¿Cómo cambiar la línea de estado de tmux?
+- ¿Cómo refactorizar?
+- ¿Para qué sirven los corchetes: "[]" en Vim?
 
 ## Prácticando o estudiando
 
 ## Tareas y ejercicios pendientes
-
+- :checkhealth
+- :help quickref
+- :help user-manual
