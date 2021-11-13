@@ -114,5 +114,57 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Tareas y ejercicios pendientes
 - ~~[ ] SpaceVim documentation~~
 
-----
+---
+
+# 2021-11-12
+## Aprendizajes, descubrimientos y logros
+- Logré activar [`lightline-bufferline`](https://github.com/mengelbrecht/lightline-bufferline)
+
+## Molestias
+- La configuración de los pluins es muy complicada. Parece haber diferencias entre la configuración
+  para Vim y Neovim
+- Navegar entre buffers es complicado sin SpaceVim
+
+---
+
+# Resumen semana 1
+
+## Metas
+- Español: 20 wpm
+- Python: 10 wpm
+
+## Estado actual
+- Español: 12 wpm
+
+## Aprendizajes, descubrimientos y logros
+- Vim tutor 🎓
+- `lightline-bufferline`
+- `lightline.vim`
+- `lookatme`
+
+## Molestias
+- Desinstalé SpaceVim
+- Incómodo escribir símbolos
+- Mi teclado QMK Firmware se descompuso
+- Navegar entre buffers es dificil
+- Pluins son complicados
+
+---
+
+# Resumen semana 1
+
+## Ideas
+- Tengo ideas para mejorar la configuración de mi teclado
+
+## Dudas por investigar
+- ¿Cómo cambiar la línea de estado de tmux?
+- ¿Cómo refactorizar?
+- ¿Para qué sirven los corchetes: "[]" en Vim?
+
+## Practicando o estudiando
+- ~~TypeRacer (español)~~
+
+## Tareas y ejercicios pendientes
+- [ ] :help quickref
+- [ ] :help user-manual
 
