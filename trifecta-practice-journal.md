@@ -120,3 +120,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - :checkhealth
 - :help quickref
 - :help user-manual
+- Configurar **pp** para _pair programming_
+    - `:set nornu`
+    - `:set background=light`
+
