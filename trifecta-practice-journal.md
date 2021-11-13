@@ -100,6 +100,9 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Estado actual
 
 ## Aprendizajes, descubrimientos y logros
+- Configurar **pp** para _pair programming_
+    - `:set nornu`
+    - `:set background=light`
 
 ## Molestias
 
@@ -108,6 +111,8 @@ Firmware de código abierto que permite configurar los teclados compatibles
 # Semana 2
 
 ## Ideas
+- Restringir personalización
+- Usar confirguración por defecto
 
 ## Dudas por investigar
 - ¿Cómo cambiar la línea de estado de tmux?
@@ -120,7 +125,3 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - :checkhealth
 - :help quickref
 - :help user-manual
-- Configurar **pp** para _pair programming_
-    - `:set nornu`
-    - `:set background=light`
-
