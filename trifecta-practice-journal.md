@@ -38,9 +38,9 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ## Ideas
 
-## Dudas por investigar
-
 ## Prácticando o estudiando
+
+## Dudas por investigar
 
 ## Tareas y ejercicios pendientes
 
@@ -68,22 +68,22 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Incómodo escribir símbolos
 - Mi teclado QMK Firmware se descompuso
 - Navegar entre buffers es difícil
-- Configurar pluins es difícil
+- Configurar plugins es difícil
 
 ---
 
 # Semana 1
 
 ## Ideas
-- Tengo ideas para mejorar la configuración de mi teclado
+- Prefiero cambiar la configuración de mi teclado en lugar de Vim o tmux
+
+## Practicando o estudiando
+- TypeRacer (español)
 
 ## Dudas por investigar
 - ¿Cómo cambiar la línea de estado de tmux?
 - ¿Cómo refactorizar?
 - ¿Para qué sirven los corchetes: "[]" en Vim?
-
-## Practicando o estudiando
-- ~~TypeRacer (español)~~
 
 ## Tareas y ejercicios pendientes
 - :help quickref
@@ -103,8 +103,10 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Configurar **pp** para _pair programming_
     - `:set nornu`
     - `:set background=light`
+- _[_ y _]_ son para navegación cuando se usan en combinación con _(_, _{_, _[_, _m_, _#_ y _*_
 
 ## Molestias
+- La ayuda de Vim se abre en un split
 
 ---
 
@@ -114,14 +116,13 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Restringir personalización
 - Usar confirguración por defecto
 
+## Prácticando o estudiando
+- :help quickref
+
 ## Dudas por investigar
 - ¿Cómo cambiar la línea de estado de tmux?
 - ¿Cómo refactorizar?
-- ¿Para qué sirven los corchetes: "[]" en Vim?
-
-## Prácticando o estudiando
 
 ## Tareas y ejercicios pendientes
 - :checkhealth
-- :help quickref
 - :help user-manual
