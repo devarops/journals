@@ -48,7 +48,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 # Semana 1
 
-- 2021-11-09 - 2021-11-12
+- 2021-11-09 - 2021-11-13
 
 ## Metas
 - Español: 20 wpm
@@ -93,36 +93,42 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 # Semana 2
 
-- 2021-11-15 - 2021-11-19
+- 2021-11-14 - 2021-11-20
 
 ## Metas
 
 ## Estado actual
 
 ## Aprendizajes, descubrimientos y logros
+- tmux 2: Productive Mouse-Free Development
+- `voldikss/vim-floaterm`
+- _[_ y _]_ son para navegación cuando se usan en combinación con _(_, _{_, _[_, _m_, _#_ y _*_
 - Configurar **pp** para _pair programming_
     - `:set nornu`
     - `:set background=light`
-- _[_ y _]_ son para navegación cuando se usan en combinación con _(_, _{_, _[_, _m_, _#_ y _*_
 
 ## Molestias
 - La ayuda de Vim se abre en un split
+    - `:only`
 
 ---
 
 # Semana 2
 
 ## Ideas
-- Restringir personalización
-- Usar confirguración por defecto
+- Restringir personalización de Vim
+- Configurar tmux para que funcione como Vim
 
 ## Prácticando o estudiando
-- :help quickref
+- :help quickref: Q_ma. Marks and motions
+- Practical Vim: 11. Macros
 
 ## Dudas por investigar
 - ¿Cómo cambiar la línea de estado de tmux?
 - ¿Cómo refactorizar?
+- ¿Cómo instalar corrector ortográfico?
 
 ## Tareas y ejercicios pendientes
 - :checkhealth
 - :help user-manual
+
