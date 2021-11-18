@@ -102,6 +102,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Aprendizajes, descubrimientos y logros
 - tmux 2: Productive Mouse-Free Development
 - `voldikss/vim-floaterm`
+- <C-]> para saltar a la definición del método, <C-o> para regresar
 - _[_ y _]_ son para navegación cuando se usan en combinación con _(_, _{_, _[_, _m_, _#_ y _*_
 - Configurar **pp** para _pair programming_
     - `:set nornu`
@@ -121,7 +122,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ## Prácticando o estudiando
 - :help quickref: Q_ma. Marks and motions
-- Practical Vim: 11. Macros
+- Practical Vim: Tip 75.
 
 ## Dudas por investigar
 - ¿Cómo cambiar la línea de estado de tmux?
