@@ -21,8 +21,8 @@ Gestor de ventanas para la terminal de comados del sistema operativo
 
 Firmware de código abierto que permite configurar los teclados compatibles
 
-- Vim: _[Esc]_
-- tmux: _[Ctrl]+B_
+- Vim: _<Esc>_
+- tmux: _<C-b>_
 
 ---
 
