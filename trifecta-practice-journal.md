@@ -101,12 +101,12 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ## Aprendizajes, descubrimientos y logros
 - tmux 2: Productive Mouse-Free Development
+- Personalización de la línea de estado de tmux
 - `voldikss/vim-floaterm`
 - <C-]> para saltar a la definición del método, <C-o> para regresar
 - _[_ y _]_ son para navegación cuando se usan en combinación con _(_, _{_, _[_, _m_, _#_ y _*_
 - Configurar **pp** para _pair programming_
     - `:set nornu`
-    - `:set background=light`
 
 ## Molestias
 - La ayuda de Vim se abre en un split
@@ -119,17 +119,51 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Ideas
 - Restringir personalización de Vim
 - Configurar tmux para que funcione como Vim
+- Las teclas muertas son muy incómodas con Vim
+- Tal vez el teclado 40% no es tan buena idea con Vim
+    - Incremeta keystrokes
 
 ## Prácticando o estudiando
 - :help quickref: Q_ma. Marks and motions
 - Practical Vim: Tip 75.
 
 ## Dudas por investigar
-- ¿Cómo cambiar la línea de estado de tmux?
 - ¿Cómo refactorizar?
 - ¿Cómo instalar corrector ortográfico?
 
 ## Tareas y ejercicios pendientes
 - :checkhealth
 - :help user-manual
+- Pair programming con tmux
+
+---
+
+# Semana 3
+
+- 2021-11-21 - 2021-11-27
+
+## Metas
+
+## Estado actual
+
+## Aprendizajes, descubrimientos y logros
+
+## Molestias
+
+---
+
+# Semana 2
+
+## Ideas
+
+## Prácticando o estudiando
+
+## Dudas por investigar
+- ¿Cómo refactorizar?
+- ¿Cómo instalar corrector ortográfico?
+
+## Tareas y ejercicios pendientes
+- :checkhealth
+- :help user-manual
+- Pair programming con tmux
 
