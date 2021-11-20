@@ -111,6 +111,8 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Molestias
 - La ayuda de Vim se abre en un split
     - `:only`
+- Las teclas muertas son muy incómodas con Vim
+    - Ahora uso: _intl., with AltGr dead keys_
 
 ---
 
@@ -119,13 +121,11 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Ideas
 - Restringir personalización de Vim
 - Configurar tmux para que funcione como Vim
-- Las teclas muertas son muy incómodas con Vim
-- Tal vez el teclado 40% no es tan buena idea con Vim
-    - Incremeta keystrokes
+- Tal vez el teclado 40% no es tan buena idea con Vim porque incremeta keystrokes
 
 ## Prácticando o estudiando
 - :help quickref: Q_ma. Marks and motions
-- Practical Vim: Tip 75.
+- Practical Vim: Tip 98.
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
