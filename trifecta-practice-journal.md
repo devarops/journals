@@ -95,10 +95,6 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 - 2021-11-14 - 2021-11-20
 
-## Metas
-
-## Estado actual
-
 ## Aprendizajes, descubrimientos y logros
 - tmux 2: Productive Mouse-Free Development
 - Personalización de la línea de estado de tmux
@@ -152,11 +148,13 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ---
 
-# Semana 2
+# Semana 3
 
 ## Ideas
 
 ## Prácticando o estudiando
+- :help quickref: Q_ma. Marks and motions
+- Practical Vim: Tip 99.
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
