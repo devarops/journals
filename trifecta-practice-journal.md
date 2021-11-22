@@ -65,7 +65,6 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ## Molestias
 - Desinstalé SpaceVim porque no pude configurarlo
-- Incómodo escribir símbolos
 - Mi teclado QMK Firmware se descompuso
 - Navegar entre buffers es difícil
 - Configurar plugins es difícil
@@ -117,7 +116,6 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Ideas
 - Restringir personalización de Vim
 - Configurar tmux para que funcione como Vim
-- Tal vez el teclado 40% no es tan buena idea con Vim porque incremeta keystrokes
 
 ## Prácticando o estudiando
 - :help quickref: Q_ma. Marks and motions
@@ -151,6 +149,11 @@ Firmware de código abierto que permite configurar los teclados compatibles
 # Semana 3
 
 ## Ideas
+- Vim fue creado en un teclado de 59 teclas
+    - El Planck era de 48 teclas
+        - Incrementaba keystrokes
+        - Difícil escribir símbolos
+    - El SP50 es de 60 teclas
 
 ## Prácticando o estudiando
 - :help quickref: Q_ma. Marks and motions
