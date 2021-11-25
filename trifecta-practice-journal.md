@@ -141,6 +141,9 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Estado actual
 
 ## Aprendizajes, descubrimientos y logros
+- Es trivial replicar mi entorno de desarrollo en un servidor
+- **No** es trivial replicar mi entorno de desarrollo en un contenedor
+- Es agradable programar en pareja con tmux
 
 ## Molestias
 - Preview CSV
@@ -177,5 +180,4 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Tareas y ejercicios pendientes
 - :checkhealth
 - :help user-manual
-- Pair programming con tmux
 
