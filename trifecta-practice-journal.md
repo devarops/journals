@@ -143,25 +143,36 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Aprendizajes, descubrimientos y logros
 
 ## Molestias
+- Preview CSV
+- Soft and hard wrap
 
 ---
 
 # Semana 3
 
 ## Ideas
-- Vim fue creado en un teclado de 59 teclas
+- No estoy seguro si prefiero un plugin para previsualizar CSV
+    - `:2,$! sort -t',' -k3nr`
+- En Vim queremos:
+    - Minimizar pulsasiones de teclas (keystrokes)
+    - Minimizar distancia que viajan los dedos
+- Vim fue creado en un teclado de **59** teclas
+    - El teclado convencional tiene 105 teclas
+        - Incrementa la distancia que viajan los dedos
     - El Planck era de 48 teclas
-        - Incrementaba keystrokes
-        - Difícil escribir símbolos
-    - El SP50 es de 60 teclas
+        - Incrementa keystrokes
+    - El SP50 es de **60** teclas
+- Las capas de los teclados QMK se parecen a los modos de Vim
 
 ## Prácticando o estudiando
 - :help quickref: Q_ma. Marks and motions
-- Practical Vim: Tip 99.
+- Practical Vim: Tip 109.
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
 - ¿Cómo instalar corrector ortográfico?
+- Configurar `liuchengxu/vim-which-key`
+- Configurar `glacambre/firenvim`
 
 ## Tareas y ejercicios pendientes
 - :checkhealth
