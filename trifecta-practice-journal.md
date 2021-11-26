@@ -15,7 +15,7 @@ Editor de texto con TUI
 
 # tmux
 
-Gestor de ventanas para la terminal de comados del sistema operativo
+Gestor de ventanas para la terminal de comandos del sistema operativo
 
 # QMK Firmware
 
