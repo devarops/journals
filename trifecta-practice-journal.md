@@ -144,6 +144,9 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Es trivial replicar mi entorno de desarrollo en un servidor
 - **No** es trivial replicar mi entorno de desarrollo en un contenedor
 - Es agradable programar en pareja con tmux
+- Corrector ortográfico en español
+    - `:set spell`
+    - `:set spelllang=es`
 
 ## Molestias
 - Preview CSV
