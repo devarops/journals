@@ -148,6 +148,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Molestias
 - Preview CSV
 - Soft and hard wrap
+- MUcomplete tiene conflicto con Telescope
 
 ---
 
