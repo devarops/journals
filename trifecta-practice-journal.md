@@ -119,7 +119,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ## Prácticando o estudiando
 - :help quickref: Q_ma. Marks and motions
-- Practical Vim: Tip 98.
+- Practical Vim
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
@@ -144,6 +144,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Es trivial replicar mi entorno de desarrollo en un servidor
 - **No** es trivial replicar mi entorno de desarrollo en un contenedor
 - Es agradable programar en pareja con tmux
+- Practical Vim
 - Corrector ortográfico en español
     - `:set spell`
     - `:set spelllang=es`
@@ -173,7 +174,6 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ## Prácticando o estudiando
 - :help quickref: Q_ma. Marks and motions
-- Practical Vim: Tip 109.
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
