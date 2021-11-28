@@ -151,6 +151,10 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - MUcomplete tiene conflicto con Telescope
 - No pude configurar `glacambre/firenvim`
 
+---
+
+# Semana 3
+
 ## Ideas
 - No estoy seguro si prefiero un plugin para previsualizar CSV
     - `:2,$! sort -t',' -k3nr`
@@ -165,13 +169,15 @@ Firmware de código abierto que permite configurar los teclados compatibles
     - El SP50 es de **60** teclas
 - Las capas de los teclados QMK se parecen a los modos de Vim
 
-# Semana 3
-
 ## Prácticando o estudiando
 - :help quickref: *Q_vm* Various motions
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
+
+---
+
+# Semana 3
 
 ## Tareas y ejercicios pendientes
 - :checkhealth
@@ -191,6 +197,8 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Autocompletado con `hrsh7th/nvim-cmp`
 
 ## Molestias
+
+---
 
 ## Ideas
 
