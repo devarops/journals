@@ -136,10 +136,6 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 - 2021-11-21 - 2021-11-27
 
-## Metas
-
-## Estado actual
-
 ## Aprendizajes, descubrimientos y logros
 - Es trivial replicar mi entorno de desarrollo en un servidor
 - **No** es trivial replicar mi entorno de desarrollo en un contenedor
@@ -153,10 +149,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Preview CSV
 - Soft and hard wrap
 - MUcomplete tiene conflicto con Telescope
-
----
-
-# Semana 3
+- No pude configurar `glacambre/firenvim`
 
 ## Ideas
 - No estoy seguro si prefiero un plugin para previsualizar CSV
@@ -172,16 +165,41 @@ Firmware de código abierto que permite configurar los teclados compatibles
     - El SP50 es de **60** teclas
 - Las capas de los teclados QMK se parecen a los modos de Vim
 
+# Semana 3
+
 ## Prácticando o estudiando
-- :help quickref: Q_ma. Marks and motions
+- :help quickref: *Q_vm* Various motions
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
-- ¿Cómo instalar corrector ortográfico?
-- Configurar `liuchengxu/vim-which-key`
-- Configurar `glacambre/firenvim`
 
 ## Tareas y ejercicios pendientes
 - :checkhealth
 - :help user-manual
 
+---
+
+# Semana 4
+
+- 2021-11-28 - 2021-12-04
+
+## Metas
+
+## Estado actual
+
+## Aprendizajes, descubrimientos y logros
+- Autocompletado con `hrsh7th/nvim-cmp`
+
+## Molestias
+
+## Ideas
+
+## Prácticando o estudiando
+- :help quickref: *Q_vm* Various motions
+
+## Dudas por investigar
+- ¿Cómo refactorizar?
+
+## Tareas y ejercicios pendientes
+- :checkhealth
+- :help user-manual
