@@ -65,9 +65,9 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ## Molestias
 - Desinstalé SpaceVim porque no pude configurarlo
+- Configurar plugins es difícil
 - Mi teclado QMK Firmware se descompuso
 - Navegar entre buffers es difícil
-- Configurar plugins es difícil
 
 ---
 
@@ -203,7 +203,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Ideas
 
 ## Prácticando o estudiando
-- :help quickref: *Q_vm* Various motions
+- :help quickref: Q_sc Scrolling
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
