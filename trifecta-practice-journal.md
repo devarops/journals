@@ -195,15 +195,17 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ## Aprendizajes, descubrimientos y logros
 - Autocompletado con `hrsh7th/nvim-cmp`
+- _Language server protocol_ es esencial `:help lsp`
 
 ## Molestias
+- Usar Git sin GitKraken es muy incómodo
 
 ---
 
 ## Ideas
 
 ## Prácticando o estudiando
-- :help quickref: Q_sc Scrolling
+- :help quickref: Q_co Complex changes
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
