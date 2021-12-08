@@ -169,15 +169,15 @@ Firmware de código abierto que permite configurar los teclados compatibles
     - El SP50 es de **60** teclas
 - Las capas de los teclados QMK se parecen a los modos de Vim
 
+---
+
+# Semana 3
+
 ## Prácticando o estudiando
 - :help quickref: *Q_vm* Various motions
 
 ## Dudas por investigar
 - ¿Cómo refactorizar?
-
----
-
-# Semana 3
 
 ## Tareas y ejercicios pendientes
 - :checkhealth
@@ -189,18 +189,49 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 - 2021-11-28 - 2021-12-04
 
-## Metas
-
-## Estado actual
-
 ## Aprendizajes, descubrimientos y logros
 - Autocompletado con `hrsh7th/nvim-cmp`
 - _Language server protocol_ es esencial `:help lsp`
+    - `set signcolumn=yes`
+- Los mejores recursos para aprender Vim son:
+    - [ThePrimeagen](https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw)
+    - [Practical Vim](https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629/)
+    - [Vim Meetups (thoughtbot)](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)
 
 ## Molestias
 - Usar Git sin GitKraken es muy incómodo
 
 ---
+
+# Semana 4
+
+## Prácticando o estudiando
+- :help quickref: Q_co Complex changes
+
+## Dudas por investigar
+- ¿Cómo refactorizar?
+
+## Tareas y ejercicios pendientes
+- :checkhealth
+- :help user-manual
+
+---
+
+# Semana 5
+
+- 2021-12-05 - 2021-12-11
+
+## Metas
+
+## Estado actual
+
+## Aprendizajes, descubrimientos y logros
+
+## Molestias
+
+---
+
+# Semana 5
 
 ## Ideas
 
@@ -213,3 +244,4 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Tareas y ejercicios pendientes
 - :checkhealth
 - :help user-manual
+
