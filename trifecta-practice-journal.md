@@ -221,27 +221,60 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 - 2021-12-05 - 2021-12-11
 
-## Metas
-
-## Estado actual
-
 ## Aprendizajes, descubrimientos y logros
+- Avances en mover mi entorno de desarrollo a un contenedor de Docker
+- Quick reference guide
 
 ## Molestias
+- No puedo trabajar sin GitKraken; me gustaría que la TUI `lazygit` fuera una alternativa
+- En mi máquina de escritorio, no puedo generar el contenedor con mi entorno de desarrollo
+
+## Prácticando o estudiando
+    - Modern Vim: Tip 19
 
 ---
 
 # Semana 5
 
-## Ideas
-
-## Prácticando o estudiando
-- :help quickref: Q_co Complex changes
-
 ## Dudas por investigar
 - ¿Cómo refactorizar?
+- ¿Cómo hacer TDD?
+- ¿Cómo mandar código a IPython o Python?
+- ¿Para qué es el plugin `nvim-treesitter`?
 
 ## Tareas y ejercicios pendientes
 - :checkhealth
 - :help user-manual
 
+---
+
+# Semana 6
+
+- 2021-12-12 - 2021-12-18
+
+## Metas
+
+## Estado actual
+
+## Aprendizajes, descubrimientos y logros
+- Modern Vim
+
+## Molestias
+
+---
+
+# Semana 6
+
+## Ideas
+
+## Prácticando o estudiando
+
+## Dudas por investigar
+- ¿Cómo refactorizar?
+- ¿Cómo hacer TDD?
+- ¿Cómo mandar código a IPython o Python?
+- ¿Para qué es el plugin `nvim-treesitter`?
+
+## Tareas y ejercicios pendientes
+- :checkhealth
+- :help user-manual
