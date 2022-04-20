@@ -46,7 +46,7 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ---
 
-# Semana 1
+# Semana 1 de 52
 
 - 2021-11-09 - 2021-11-13
 
@@ -250,5 +250,5 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Automatizar la instalación de mi _Personal Development Environment_ (PDE) en una máquina nueva
     - Por ejemplo, mediante Ansible
 - Reproducir mi PDE dentro de un contenedor de Docker
-    - Sin ningún sacrificio (autocompletar, resaltado de sintaxis, LSP, etc.)
+    - Sin sacrificios en DX (autocompletar, resaltado de sintaxis, LSP, etc.)
 
