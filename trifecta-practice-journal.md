@@ -50,13 +50,6 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 - 2021-11-09 - 2021-11-13
 
-## Metas
-- Español: 20 wpm
-- Python: 10 wpm
-
-## Estado actual
-- Español: 12 wpm
-
 ## Aprendizajes, descubrimientos y logros
 - `vimtutor`
 - `lightline.vim`
@@ -248,33 +241,14 @@ Firmware de código abierto que permite configurar los teclados compatibles
 
 ---
 
-# Semana 6
+# Semana 24
 
-- 2021-12-12 - 2021-12-18
+- 2022-04-24
 
 ## Metas
 
-## Estado actual
+- Automatizar la instalación de mi _Personal Development Environment_ (PDE) en una máquina nueva
+    - Por ejemplo, mediante Ansible
+- Reproducir mi PDE dentro de un contenedor de Docker
+    - Sin ningún sacrificio (autocompletar, resaltado de sintaxis, LSP, etc.)
 
-## Aprendizajes, descubrimientos y logros
-- Modern Vim
-
-## Molestias
-
----
-
-# Semana 6
-
-## Ideas
-
-## Prácticando o estudiando
-
-## Dudas por investigar
-- ¿Cómo refactorizar?
-- ¿Cómo hacer TDD?
-- ¿Cómo mandar código a IPython o Python?
-- ¿Para qué es el plugin `nvim-treesitter`?
-
-## Tareas y ejercicios pendientes
-- :checkhealth
-- :help user-manual
