@@ -252,3 +252,16 @@ Firmware de código abierto que permite configurar los teclados compatibles
 - Reproducir mi PDE dentro de un contenedor de Docker
     - Sin sacrificios en DX (autocompletar, resaltado de sintaxis, LSP, etc.)
 
+---
+
+# Semana 26
+
+- 2022-05-13
+
+## Aprendizajes, descubrimientos y logros
+
+- Configuración de
+    - `hrsh7th/nvim-cmp`: A completion plugin for neovim coded in Lua.
+    - `neovim/nvim-lspconfig`: Quickstart configurations for the Nvim LSP client
+
+---
