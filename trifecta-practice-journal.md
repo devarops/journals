@@ -261,7 +261,8 @@ Firmware de código abierto que permite configurar los teclados compatibles
 ## Aprendizajes, descubrimientos y logros
 
 - Configuración de
-    - `hrsh7th/nvim-cmp`: A completion plugin for neovim coded in Lua.
-    - `neovim/nvim-lspconfig`: Quickstart configurations for the Nvim LSP client
+    - `hrsh7th/nvim-cmp`: A completion plugin for Neovim coded in Lua.
+    - `neovim/nvim-lspconfig`: Quickstart configurations for the Neovim LSP client
+    - `nvim-treesitter/nvim-treesitter`: Neovim Treesitter configurations and abstraction layer
 
 ---
